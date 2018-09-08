@@ -1,0 +1,37 @@
+{
+  "name": "bot-webscraper",
+  "version": "1.0.0",
+  "description": "Simple webscraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcsrs/bot-webscraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "crawler"
+  ],
+  "author": "Daniel Castro <danielcastro.rs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielcsrs/bot-webscraper/issues"
+  },
+  "homepage": "https://github.com/danielcsrs/bot-webscraper#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "cheerio": "^1.0.0-rc.2",
+    "dotenv": "^6.0.0",
+    "interval-promise": "^1.2.0",
+    "mysql2": "^1.6.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
