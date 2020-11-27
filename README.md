@@ -2,7 +2,7 @@
 
 Esse código faz parte do tutorial Construindo um web scraping em Node.js:
 
-URL: https://www.danieldcs.com.br/construindo-um-web-scraping-em-nodejs/
+URL: https://danieldcs.com/construindo-um-web-scraping-em-nodejs/
 
 ### Começando
 
